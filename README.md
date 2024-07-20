@@ -2,13 +2,13 @@
 <hr>
 <h1 align="center">I'm <a href="https://alvus.itch.io/">Alvaro<a>
 <Br>
-<h1>About Me! 😎</h1>
+<h1>About Me! </h1> <!--😎  https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Aryagm.md-->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on Unity 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about for Unity 2d Development
+- 🌱 I’m currently learning Unity Engine and HTML
+- 👯 I’m looking to collaborate on Unity Projects
+- 🤔 I’m looking for help with Unity 2D Project
+- 💬 Ask me about for Unity 2D Development
   
 <!--
 **alvaro500/alvaro500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
