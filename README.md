@@ -1,5 +1,15 @@
 ## Hi there 👋
+<hr>
+<h1 align="center">I'm <a href="https://alvus.itch.io/">Alvaro<a>
+<Br>
+<h1>About Me! 😎</h1>
 
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on Unity 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about for Unity 2d Development
+  
 <!--
 **alvaro500/alvaro500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
